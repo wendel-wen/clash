@@ -19,8 +19,6 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,roonlabs.net
-DOMAIN-SUFFIX,tidal.com
 
 
 # 其他网站
@@ -74,3 +72,7 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
+
+
+DOMAIN-SUFFIX,api.roonlabs.net
+DOMAIN-SUFFIX,tidal.com
